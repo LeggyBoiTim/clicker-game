@@ -1,7 +1,7 @@
 <script setup lang="ts">
-import HelloWorld from './components/HelloWorld.vue'
+import ClickerGame from './ClickerGame.vue'
 </script>
 
 <template>
-  <HelloWorld />
+  <ClickerGame />
 </template>
