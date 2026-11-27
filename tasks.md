@@ -44,8 +44,8 @@
 4. [x] Test: UI displays correctly and buttons enable/disable as expected
 
 ## Phase 7: Verification
-1. [ ] Run `npm run build` (typecheck + build) with zero errors
-2. [ ] Manual test: click increases points; buy upgrade deducts points; auto-click adds points/sec
-3. [ ] Manual test: refresh page retains progress via localStorage
-4. [ ] Manual test: corrupt localStorage -> falls back to defaults without crash
-5. [ ] Test: all verification scenarios pass
+1. [x] Run `npm run build` (typecheck + build) with zero errors
+2. [x] Manual test: click increases points; buy upgrade deducts points; auto-click adds points/sec
+3. [x] Manual test: refresh page retains progress via localStorage
+4. [x] Manual test: corrupt localStorage -> falls back to defaults without crash
+5. [x] Test: all verification scenarios pass
